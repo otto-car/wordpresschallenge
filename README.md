@@ -57,9 +57,10 @@ Your task is to build an **_Uber_ Clean Air Plan Calculator**, where the user wo
 
 Some notes:
 
-- The six car along with their weekly prices and contract lengths can be seen [here](https://i.imgur.com/dQOMkk3.png).
+- The six cars along with their weekly prices and contract lengths can be seen [here](https://i.imgur.com/dQOMkk3.png). I've stored it as an JSON file for you in this repository (you do not need to use SQL here).
 - Photos of each of the cars can be found [here](https://imgur.com/a/CBxPAgk) (one of the photos is repeated, it's because we offer the same car model in two different configurations).
 - A driver can have a minimum of £1000, and a maximum of £5000.
+
 
 We do not want to suggest any UX/UI, as designing a friendly and responsive UI will be part of your evaluation as well.
 
